@@ -1,0 +1,12 @@
+2025-11-17 00:15:34 | <len=3> | score=4 | Fuerte
+2025-11-17 00:24:35.593875 — 'iloveyou' — Score: 4/10
+2025-11-17 00:28:35.436543 — 'misGatitos2.iluvu45#' — Score: 8/10
+2025-11-17 00:30:05.115408 — 'python -m pip install colorama' — Score: 4/10
+2025-11-18 22:44:21 | 'foca143' | Puntaje: 2/8
+2025-11-18 22:46:04 | 'myhouse354.!' | Puntaje: 6/8
+2025-11-18 22:47:14 | 'Alameda253!@' | Puntaje: 8/8
+2025-11-18 22:47:55 | 'mypresident35@' | Puntaje: 6/8
+2025-11-18 22:48:18 | 'enniemine@�1' | Puntaje: 6/8
+2025-11-18 22:48:46 | 'Alice39@_' | Puntaje: 8/8
+2025-11-18 22:49:20 | 'redmidnightCHILE25' | Puntaje: 6/8
+2025-11-18 22:49:56 | 'Iquique2025%' | Puntaje: 8/8

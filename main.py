@@ -59,4 +59,8 @@ def main():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 30081a1 (Primer commit: proyecto validador de contraseñas)
