@@ -12,17 +12,14 @@ El programa entrega:
 - Recomendaciones de mejora
 - Un registro en `checks_log.txt` con el historial de evaluaciones
 
-## 🧠 ¿Por qué lo hice?
+## ¿Por qué lo hice?
 Para practicar Python, lógica y validación de datos.  
 Es parte de mis primeros proyectos como desarrolladora.
 
-## 🚀 ¿Cómo usarlo?
+## ¿Cómo usarlo?
 
 1. Instala Python 3  
 2. Ejecuta el script:
    
-3. Ingresa una contraseña y revisa los resultados ✨
+3. Ingresa una contraseña y revisa los resultados 
 
----
-## ✨ Autor(a)
-Lexi — *NLbytes*
